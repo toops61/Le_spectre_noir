@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Le-spectre-noir/static/css/main.9fbf8a9f.css",
+    "main.css": "/Le-spectre-noir/static/css/main.d13a9bc1.css",
     "main.js": "/Le-spectre-noir/static/js/main.5a698a3d.js",
     "static/media/fa-solid-900.ttf": "/Le-spectre-noir/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/Le-spectre-noir/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -9,11 +9,11 @@
     "static/media/fa-regular-400.ttf": "/Le-spectre-noir/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
     "static/media/fa-regular-400.woff2": "/Le-spectre-noir/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "index.html": "/Le-spectre-noir/index.html",
-    "main.9fbf8a9f.css.map": "/Le-spectre-noir/static/css/main.9fbf8a9f.css.map",
+    "main.d13a9bc1.css.map": "/Le-spectre-noir/static/css/main.d13a9bc1.css.map",
     "main.5a698a3d.js.map": "/Le-spectre-noir/static/js/main.5a698a3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fbf8a9f.css",
+    "static/css/main.d13a9bc1.css",
     "static/js/main.5a698a3d.js"
   ]
 }
