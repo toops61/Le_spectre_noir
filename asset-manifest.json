@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Le_spectre_noir/static/css/main.1590eb72.css",
-    "main.js": "/Le_spectre_noir/static/js/main.793443f7.js",
+    "main.css": "/Le_spectre_noir/static/css/main.7b0a2034.css",
+    "main.js": "/Le_spectre_noir/static/js/main.7efa4e13.js",
     "static/media/fa-solid-900.ttf": "/Le_spectre_noir/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/Le_spectre_noir/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
     "static/media/fa-solid-900.woff2": "/Le_spectre_noir/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
@@ -9,11 +9,11 @@
     "static/media/fa-regular-400.ttf": "/Le_spectre_noir/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
     "static/media/fa-regular-400.woff2": "/Le_spectre_noir/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "index.html": "/Le_spectre_noir/index.html",
-    "main.1590eb72.css.map": "/Le_spectre_noir/static/css/main.1590eb72.css.map",
-    "main.793443f7.js.map": "/Le_spectre_noir/static/js/main.793443f7.js.map"
+    "main.7b0a2034.css.map": "/Le_spectre_noir/static/css/main.7b0a2034.css.map",
+    "main.7efa4e13.js.map": "/Le_spectre_noir/static/js/main.7efa4e13.js.map"
   },
   "entrypoints": [
-    "static/css/main.1590eb72.css",
-    "static/js/main.793443f7.js"
+    "static/css/main.7b0a2034.css",
+    "static/js/main.7efa4e13.js"
   ]
 }
